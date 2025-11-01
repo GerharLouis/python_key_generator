@@ -1,0 +1,23 @@
+[
+    {
+        "hwid": "HWID_001",
+        "product": "DEMO_PRODUCT",
+        "expiry": "2025-12-01",
+        "users": 5,
+        "license": "eyJleHAiOiIyMDI1LTEyLTAxIiwiaHdpZCI6IkhXSURfMDAxIiwicHJvZHVjdCI6IkRFTU9fUFJPRFVDVCIsInVzZXJzIjo1fS6zDVzsB1-jvA"
+    },
+    {
+        "hwid": "HWID_002",
+        "product": "DEMO_PRODUCT",
+        "expiry": "2025-12-01",
+        "users": 5,
+        "license": "eyJleHAiOiIyMDI1LTEyLTAxIiwiaHdpZCI6IkhXSURfMDAyIiwicHJvZHVjdCI6IkRFTU9fUFJPRFVDVCIsInVzZXJzIjo1fS6KcwDBuXVW8g"
+    },
+    {
+        "hwid": "HWID_003",
+        "product": "DEMO_PRODUCT",
+        "expiry": "2025-12-01",
+        "users": 5,
+        "license": "eyJleHAiOiIyMDI1LTEyLTAxIiwiaHdpZCI6IkhXSURfMDAzIiwicHJvZHVjdCI6IkRFTU9fUFJPRFVDVCIsInVzZXJzIjo1fS6n0Bc_-04shQ"
+    }
+]
