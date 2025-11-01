@@ -22,3 +22,4 @@ Ideal for software developers who want to protect and manage offline license key
 git clone https://github.com/GerharLouis/python_offline_key_generator.git
 cd python_offline_key_generator
 
+Inclucded is a license_tester.py to test and validate the .lic
